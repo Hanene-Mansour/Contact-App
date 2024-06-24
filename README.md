@@ -19,7 +19,7 @@ Email:
 
 ## Live Demo
 
-For a Live Demo, check : [https://contactapp.iamarijit.dev](https://contactapp.iamarijit.dev)
+For a Live Demo, check : 
 
 <hr>
 
